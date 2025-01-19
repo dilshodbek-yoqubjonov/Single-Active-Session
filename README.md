@@ -38,4 +38,9 @@ This project implements a **Node.js middleware** that ensures a single active se
     npm install
     ```
 
+2. Run project with nodemon:
+    ```bash
+    npm run dev
+    ```
+
 
