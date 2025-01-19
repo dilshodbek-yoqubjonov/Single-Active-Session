@@ -1,0 +1,29 @@
+{
+  "name": "single-active-session",
+  "version": "1.0.0",
+  "description": "\"# Single-Active-Session\"",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon ./src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilshodbek-yoqubjonov/Single-Active-Session.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dilshodbek-yoqubjonov/Single-Active-Session/issues"
+  },
+  "homepage": "https://github.com/dilshodbek-yoqubjonov/Single-Active-Session#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "ioredis": "^5.4.2",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
